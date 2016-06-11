@@ -1,5 +1,5 @@
 # iOS Text Styles in Sketch
-A direct and true representation of iOS 9 text styles created in Sketch
+A direct and true representation of iOS `UIFontTextStyle` created in Sketch
 
 <img src="http://i.imgur.com/zefIBv9.png" width=400px/>
 
