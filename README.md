@@ -22,8 +22,9 @@ A sketch file with `10` defined text styles directly mapped from iOS 9 [`Text St
 
 I wanted an easier and consistent way to design and build when switching between Sketch and Xcode:
 
-1. Sketch iOS template is inaccurate.
-2. Sketch iOS template doesn't share the same naming conventions as Xcode. 
+* Sketch iOS template is inaccurate.
+* Sketch iOS template doesn't share the same naming conventions as Xcode.
+* I couldn't find any resource like this
 
 ## How to use
 
