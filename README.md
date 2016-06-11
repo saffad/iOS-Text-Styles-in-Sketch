@@ -33,3 +33,7 @@ I wanted an easier and consistent way to design and build when switching between
 
 <img src="http://i.imgur.com/z232zEy.png" width=400px/>
 
+**Feel free to leave feedback and contribute**
+
+*Acknowledgements: [Meng To](https://designcode.io/iosdesign-guidelines) for the tracking table.*
+
