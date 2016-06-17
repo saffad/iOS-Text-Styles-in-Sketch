@@ -5,7 +5,7 @@ A direct and true representation of iOS [`UIFontTextStyles`](https://developer.a
 
 ## What is this
 
-A sketch file with `10` defined text styles directly mapped from iOS 9 [`Text Styles`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIFontDescriptor_Class/index.html#//apple_ref/doc/constant_group/Text_Styles) constants:
+A sketch file with `10` defined text styles directly mapped from iOS [`Text Styles`](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/) constants:
 
 `Title1`
 `Title2`
@@ -17,6 +17,8 @@ A sketch file with `10` defined text styles directly mapped from iOS 9 [`Text St
 `Caption1`
 `Caption2`
 `Callout`
+
+Supports *iOS* 9 and *iOS 10*. Includes 1 artboard for the default Dynamic Type size.
 
 ## Why
 
