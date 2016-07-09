@@ -5,7 +5,7 @@ A direct and true representation of iOS [`UIFontTextStyles`](https://developer.a
 
 ## What is this
 
-A sketch file with `10` defined text styles directly mapped from iOS [`Text Styles`](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/) constants:
+A sketch file with `10` defined text styles directly mapped from iOS [`Text Styles`](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/) constants (see [Typography](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/)):
 
 `Title1`
 `Title2`
