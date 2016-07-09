@@ -18,7 +18,9 @@ A sketch file with `10` defined text styles directly mapped from iOS [`Text Styl
 `Caption2`
 `Callout`
 
-Supports *iOS* 9 and *iOS 10*. Includes 1 artboard for the default Dynamic Type size.
+- Supports iOS 9 and later
+- Includes styles for Default (Large) Dynamic Type size
+- Supports Latin and Japanese
 
 ## Why
 
